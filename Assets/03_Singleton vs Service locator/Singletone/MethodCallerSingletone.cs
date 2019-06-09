@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MethodCaller : MonoBehaviour
+public class MethodCallerSingletone : MonoBehaviour
 {
     //True dependency organization
     private SingletoneInstance singletoneInstance { get => SingletoneInstance.Instance;}

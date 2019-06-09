@@ -556,8 +556,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5ef9bc2c16ca2564598d084e6253fe85, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  LoopType: 0
-  FrameRate: 1
+  LoopType: 1
+  FrameRate: 2
   mover: {fileID: 1381426966}
   TargetFrameRate: 60
 --- !u!114 &1381426968
